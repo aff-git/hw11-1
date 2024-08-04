@@ -125,3 +125,7 @@ body {
     padding-left: 10px;
     color: gray;
 }
+
+.card-text:hover {
+    text-decoration: underline;
+}
